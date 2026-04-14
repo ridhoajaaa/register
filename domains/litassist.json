@@ -5,7 +5,7 @@
     "username": "ridhoajaaa",
     "email": "alfariziridha014@gmail.com"
   },
-  "record": {
-    "CNAME": "https://idiochromatic-materially-ace.ngrok-free.dev/"
+  "records": {
+    "CNAME": "idiochromatic-materially-ace.ngrok-free.dev"
   }
 }
